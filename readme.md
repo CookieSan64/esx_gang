@@ -34,7 +34,12 @@ Config.GangStations = { -- Remplace 'GangStations' par la fonction qui ouvre le 
 
 Modifiez les valeurs de `Spawner`, `SpawnPoint` et `Heading` pour définir la position d'apparition et de suppression des véhicules pour chaque gang.
 
+## Absence de marqueurs pour certains éléments
+
+Veuillez noter qu'il n'y a pas de marqueurs pour le coffre fort, le coffre, l'armurerie et la gestion du patron, car sur notre serveur CalicoCity, nous passons par le jobcreator de https://jaksam1074-fivem-scripts.tebex.io/package/5369987 pour ces fonctionnalités. Vous devrez donc les configurer manuellement en fonction de votre propre infrastructure.
+
 ## Crédits
+
 Ce script a été créé par ChouCookieSan | Discord : .cookiesan / CookieSan#5805 pour CalicoCity. Vous pouvez me contacter pour toute question ou support supplémentaire.
 
 N'hésitez pas à contribuer à ce projet en ouvrant des issues ou en proposant des pull requests pour améliorer la fonctionnalité des gangs dans ESX.
